@@ -60,23 +60,18 @@ lib/
 
 ## 🧪 Screenshots
 
-| Écran 1 | Écran 2 | Écran 3 |
-|--------|---------|---------|
-| ![1](assets/images/screens/1.png) | ![2](assets/images/screens/2.png) | ![3](assets/images/screens/3.png) |
+---
 
-| Écran 4 | Écran 5 | Écran 6 |
-|--------|---------|---------|
-| ![4](assets/images/screens/4.png) | ![5](assets/images/screens/5.png) | ![6](assets/images/screens/6.png) |
+| Écran 1 | Écran 2 | Écran 3 | Écran 4 | Écran 5 | Écran 6 |
+|--------|---------|---------|--------|---------|---------|
+| ![1](assets/images/screens/1.png) | ![2](assets/images/screens/2.png) | ![3](assets/images/screens/3.png) | ![4](assets/images/screens/4.png) | ![5](assets/images/screens/5.png) | ![6](assets/images/screens/6.png) |
 
-| Écran 7 | Écran 8 | Écran 9 |
-|--------|---------|---------|
-| ![7](assets/images/screens/7.png) | ![8](assets/images/screens/8.png) | ![9](assets/images/screens/9.png) |
-
-| Écran 10 | Écran 11 | Écran 12 |
-|---------|----------|----------|
-| ![10](assets/images/screens/10.png) | ![11](assets/images/screens/11.png) | ![12](assets/images/screens/12.png) |
+| Écran 7 | Écran 8 | Écran 9 | Écran 10 | Écran 11 | Écran 12 |
+|--------|---------|---------|----------|----------|----------|
+| ![7](assets/images/screens/7.png) | ![8](assets/images/screens/8.png) | ![9](assets/images/screens/9.png) | ![10](assets/images/screens/10.png) | ![11](assets/images/screens/11.png) | ![12](assets/images/screens/12.png) |
 
 ---
+
 
 ## 🚀 Installation
 
