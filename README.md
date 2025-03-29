@@ -111,10 +111,22 @@ flutter run
 
 ---
 
+Voici une version professionnelle, claire et inspirante de ta section **Licence** pour ton `README.md` :
+
+---
+
 ## 📄 Licence
 
-Ce projet est sous licence **MIT**. Utilisation libre à des fins personnelles ou commerciales.
+Ce projet est publié sous licence **MIT**.
 
+> ✨ Il s'agit d’une œuvre de l’esprit, née d’un besoin réel et pensée avec passion pour améliorer le quotidien des entrepreneurs.
+
+🔒 Vous êtes libre de l’utiliser à des fins **personnelles ou commerciales**, mais :
+
+⚠️ **Merci de nous contacter pour toute réutilisation, intégration dans un produit commercial, ou diffusion à grande échelle.**  
+Cela permet de respecter l'esprit du projet et de contribuer à son amélioration continue.
+
+📬 Contact : `danielguedegbe10027@gmail.com`
 ---
 
 > _"Bakan — Gérer intelligemment, vendre efficacement."_ 🚀
